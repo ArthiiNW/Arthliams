@@ -40,6 +40,8 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
+  - name: 老福特原站
+    url: http://arthliams.lofter.com
 
 # 每页的文章数
 paginate: 8
@@ -59,10 +61,10 @@ footer-links:
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
-  rss: http://arthliams.lofter.com#随便填点啥RSS就能用了
+  rss: #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
-  twitter: # https://www.twitter.com/<your_twitter_username> 
+  twitter: Arthliams # https://www.twitter.com/<your_twitter_username> 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
