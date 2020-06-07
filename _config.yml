@@ -73,14 +73,14 @@ footer-text: Copyright (c) 2020 亚苏_Arthliams
 #
 
 # 输入Disqus shortname，即可添加评论区
-disqus: loffer #shortname
+disqus: #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 2fa75dcee28e00f8da3b
+  clientSecret: 86002de53e1c57dc58208c33717452351ccb70cd
+  repo: Arthliams
+  owner: ArthiiNW
 
 # 输入Google Analytics web tracking code
 google_analytics:
